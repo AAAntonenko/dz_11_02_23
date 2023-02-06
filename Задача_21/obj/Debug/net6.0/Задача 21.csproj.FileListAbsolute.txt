@@ -1,0 +1,15 @@
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/obj/Debug/net6.0/Задача 21.csproj.AssemblyReference.cache
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/obj/Debug/net6.0/Задача 21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/obj/Debug/net6.0/Задача 21.AssemblyInfoInputs.cache
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/obj/Debug/net6.0/Задача 21.AssemblyInfo.cs
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/obj/Debug/net6.0/Задача 21.csproj.CoreCompileInputs.cache
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/bin/Debug/net6.0/Задача 21
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/bin/Debug/net6.0/Задача 21.deps.json
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/bin/Debug/net6.0/Задача 21.runtimeconfig.json
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/bin/Debug/net6.0/Задача 21.dll
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/bin/Debug/net6.0/Задача 21.pdb
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/obj/Debug/net6.0/Задача 21.dll
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/obj/Debug/net6.0/refint/Задача 21.dll
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/obj/Debug/net6.0/Задача 21.pdb
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/obj/Debug/net6.0/Задача 21.genruntimeconfig.cache
+/Users/a-.-/Desktop/дЗ_11_02/Задача 21/obj/Debug/net6.0/ref/Задача 21.dll

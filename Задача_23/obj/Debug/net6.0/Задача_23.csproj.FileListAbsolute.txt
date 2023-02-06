@@ -1,0 +1,15 @@
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/obj/Debug/net6.0/Задача_23.csproj.AssemblyReference.cache
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/obj/Debug/net6.0/Задача_23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/obj/Debug/net6.0/Задача_23.AssemblyInfoInputs.cache
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/obj/Debug/net6.0/Задача_23.AssemblyInfo.cs
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/obj/Debug/net6.0/Задача_23.csproj.CoreCompileInputs.cache
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/bin/Debug/net6.0/Задача_23
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/bin/Debug/net6.0/Задача_23.deps.json
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/bin/Debug/net6.0/Задача_23.runtimeconfig.json
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/bin/Debug/net6.0/Задача_23.dll
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/bin/Debug/net6.0/Задача_23.pdb
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/obj/Debug/net6.0/Задача_23.dll
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/obj/Debug/net6.0/refint/Задача_23.dll
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/obj/Debug/net6.0/Задача_23.pdb
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/obj/Debug/net6.0/Задача_23.genruntimeconfig.cache
+/Users/a-.-/Desktop/дЗ_11_02/Задача_23/obj/Debug/net6.0/ref/Задача_23.dll
